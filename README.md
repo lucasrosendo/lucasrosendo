@@ -1,4 +1,4 @@
-- 🌱 Estudando atualmente <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+## 🌱 Estudando atualmente <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrosendo&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrosendo&langs_count=8&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
