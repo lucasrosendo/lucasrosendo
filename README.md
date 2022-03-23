@@ -1,5 +1,9 @@
-### Hi there 👋
+- 🌱 Estudando atualmente Typescript
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrosendo&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrosendo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/lucasrosendo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **lucasrosendo/lucasrosendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
