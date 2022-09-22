@@ -15,13 +15,14 @@ Nascido e criado em Irecê-BA até os meus 14 anos, hoje moro em Itabuna-BA aos 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrosendo&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrosendo&langs_count=8&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-Estudando 🌱 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+Estudando 🌱 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 --------------------------------------------------------------------------------------------
 
 
