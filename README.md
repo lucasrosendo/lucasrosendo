@@ -21,7 +21,7 @@ Nascido e criado em Irecê-BA até os meus 14 anos, hoje moro em Itabuna-BA aos 
 
 
 
-Estudando 🌱 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+Estudando 🌱 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> e <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 --------------------------------------------------------------------------------------------
 
 
