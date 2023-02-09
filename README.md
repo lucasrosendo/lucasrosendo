@@ -3,6 +3,9 @@
 ### Sobre mim
 Nascido e criado em Irecê-BA até os meus 14 anos, hoje moro em Itabuna-BA aos 31. A paixão por tecnologia vem desde criança, quando tive meu primeiro contato com um computador, mas, foi depois da vida adulta que descobri a programação e suas possibilidades de mudança de mundo, o que só fez consolidar o meu amor pelo mundo tecnológico :heart:.
 
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> lucasrosendo91@gmail.com
+
 ### Liguangens de programação, frameworks e databases:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
