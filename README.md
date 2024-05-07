@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lucas :blush:
 
 ### Sobre mim
-Nascido e criado em Irecê-BA até os meus 14 anos, hoje moro em Itabuna-BA aos 31. A paixão por tecnologia vem desde criança, quando tive meu primeiro contato com um computador, mas, foi depois da vida adulta que descobri a programação e suas possibilidades de mudança de mundo, o que só fez consolidar o meu amor pelo mundo tecnológico :heart:.
+Nascido e criado em Irecê-BA até os meus 14 anos, hoje moro em Itabuna-BA. A paixão por tecnologia vem desde criança, quando tive meu primeiro contato com um computador, mas, foi depois da vida adulta que descobri a programação e suas possibilidades de mudança de mundo, o que só fez consolidar o meu amor pelo mundo tecnológico :heart:.
 
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> lucasrosendo91@gmail.com
